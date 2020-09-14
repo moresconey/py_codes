@@ -1,4 +1,4 @@
-# Functions created by Ney Moresco
+# Functions created by Ney Moresco - neymoresco@hotmail.com
 # Create: 2020-09-14
 # Last Update: --
 
